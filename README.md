@@ -1,2 +1,3 @@
-# nft-explorer-polaris
-Created with CodeSandbox
+# NFT Explorer
+
+Live URL: https://ej5g9.csb.app
