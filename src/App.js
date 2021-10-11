@@ -45,6 +45,7 @@ export default function App() {
 
   const lookupNFT = async () => {
     console.log(`Looking up ${address}`);
+
     try {
       setLoading(true);
       const nft = new NFT(address);
